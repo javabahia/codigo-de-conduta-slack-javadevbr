@@ -1,8 +1,8 @@
-# Basedo no código de conduta do JavaDevBR
+# Basedo no código de conduta do JavaBahia
 https://github.com/soujava/codigo-de-conduta-Discord-javadevbr
 
 # codigo-de-conduta-Discord-javadevbr
-Código de conduta do primeiro Discord oficial brasileiro sobre Java, o JavaDevBR
+Código de conduta do primeiro Discord oficial brasileiro sobre Java, o JavaBahia
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
@@ -76,7 +76,7 @@ Preste atenção em seus posts para manter a comunicação agradável e interess
 ### Responsabilidade individual
 
 Todas as mensagens enviadas no Discord, através de meios públicos ou privados, são de inteira responsabilidade do autor. O JavaBahia potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
-O JavaDevBR não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
+O JavaBahia não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
 
 ### Arquivos e links
 
